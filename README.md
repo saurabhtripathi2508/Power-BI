@@ -43,6 +43,6 @@ Analyze product demand trends - Improve operational decision-making
 Author 
 Saurabh Tripathi
 
-• Top-selling products analysis
+
 • Monthly order trends
 \\\\
