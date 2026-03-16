@@ -40,9 +40,4 @@ stakeholders: - Track inventory levels across warehouses - Identify
 products requiring restocking - Monitor warehouse capacity utilization -
 Analyze product demand trends - Improve operational decision-making
 
-Author 
-Saurabh Tripathi
-
-
-• Monthly order trends
-\\\\
+Author - Saurabh Tripathi
