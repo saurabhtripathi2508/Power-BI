@@ -13,6 +13,7 @@ Key Insights Delivered
 • Inventory distribution across warehouses
 • Low stock alerts for inventory management
 • Revenue contribution by product category
+• Order status distribution
 
 Key DAX Measures
 
@@ -42,6 +43,6 @@ Analyze product demand trends - Improve operational decision-making
 Author 
 Saurabh Tripathi
 
-• Order status distribution
 • Top-selling products analysis
 • Monthly order trends
+\\\\
